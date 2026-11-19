@@ -6,7 +6,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/ysm_vanilla_fix.txt"
-hash = "b5c66a41b2ec0060e03270ce51f00763032aeef558f9de368c85c7ac72076ac3"
+hash = "c9a28607b816e351d90484a0819286b367e12fef5097fd99ed38f57507cea936"
 
 [[files]]
 file = "mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar"
@@ -727,7 +727,7 @@ hash = "257ef67b115e2ade5948de0a02b2c31dd17acade903b26b61712ab6412acf77e"
 
 [[files]]
 file = "resourcepack/Reactive Music - LTBD/ReactiveMusic.yaml"
-hash = "b91dd9f9705ab98c2427b7ba0f53923cc58d0fa1e0374430fd44dd264baa5e7b"
+hash = "95ebb9996d114c4a8b935354e1e4e44a04708083911d77632ba686d87fc51f69"
 
 [[files]]
 file = "resourcepack/Reactive Music - LTBD/music/AncestralRuins.mp3"
