@@ -1,0 +1,13 @@
+name = "LTBD - Let There Be Dragons"
+author = "Endver_"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e361ba9e01362f55b42e53930b4dc7c21c117d67b8845831e9f466fb764361f4"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.256"

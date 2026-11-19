@@ -1,0 +1,3 @@
+# Un pseudo ou un UUID par ligne. Ces joueurs sont affiches avec leur modele YSM ; tous les autres restent en vanilla.
+_endver
+endver_
