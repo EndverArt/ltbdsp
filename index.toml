@@ -722,117 +722,117 @@ file = "mods/ysm-vanilla-fix-mc1.21.1-0.1.0.jar"
 hash = "d395bfd449babfb81a286e80d48f775f22f046d3c221e756cceb7d3585468b31"
 
 [[files]]
-file = "resourcepack/LTBD GUI Fix Pack.zip"
+file = "resourcepacks/LTBD GUI Fix Pack.zip"
 hash = "257ef67b115e2ade5948de0a02b2c31dd17acade903b26b61712ab6412acf77e"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/ReactiveMusic.yaml"
+file = "resourcepacks/Reactive Music - LTBD/ReactiveMusic.yaml"
 hash = "95ebb9996d114c4a8b935354e1e4e44a04708083911d77632ba686d87fc51f69"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/AncestralRuins.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/AncestralRuins.mp3"
 hash = "f6fc6b4a2d47c07d49d3becd19ca3d5398fc9ea335cf9462b8519ea80d013d9d"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/AzureGlades.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/AzureGlades.mp3"
 hash = "9e04c85fe25e5585c75afdb70c8ba03e5bb8f1cb4a253b20a6ff2aff71a4b375"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/Clarity.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/Clarity.mp3"
 hash = "95784e013c7bc088d493824e9242ae6009ceb939ce7bf62e0bb060b742db3d72"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/CliffsOfMoher.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/CliffsOfMoher.mp3"
 hash = "aabdb4282a3327030e2c69d459be81302963d99030e13cdcdddb917b255fbe66"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/CrystalForest.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/CrystalForest.mp3"
 hash = "0d52a6d084cdfccd34731cfa473d1b2d965dc5f66f8958ca93730639443c69d6"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/Darkwood.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/Darkwood.mp3"
 hash = "79ebff2dd3f1349c399f796eda2acecaac8ee8eef5d0f6e8289431bcdc7322ce"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/DarkwoodNight.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/DarkwoodNight.mp3"
 hash = "70de9543f4f072c765e37968f71aef6fc1abccaaab0b49369cbf81c4000fdfe3"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/ForTheKing.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/ForTheKing.mp3"
 hash = "57d0acfe17fdac4def7a47092b80b59bbeec5506cedc5b026dc2da95a58d1d4a"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/Frostlands.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/Frostlands.mp3"
 hash = "c621d361cbd348034cd5d8720e8834c89d957a53f96a66615fbe5783f204bdef"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/FrozenEcho.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/FrozenEcho.mp3"
 hash = "a7ae948480be0080fc5b6bcd12dc27af84d927fc7932f433b3f6f8caee588434"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/FrozenTerrain.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/FrozenTerrain.mp3"
 hash = "f023aa33a4848093f8eb36806b177dfd42f3114359aa4be421db1f036cf19fa7"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/GiantsoftheSpan.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/GiantsoftheSpan.mp3"
 hash = "d47fda8ccfa447821fe411c7490fa3710b0d5f44bf68db1cb4ee6c42a232ad5d"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/GreenWilds.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/GreenWilds.mp3"
 hash = "43fead242e3349a144ff2fbdc1002958b0f839075f5c4d4e3410bfa027a602bd"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/JdgSousLocean.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/JdgSousLocean.mp3"
 hash = "8cbe84ae18fe6de28367df82791784a33bbb9df81a7e70b69443f8eccd8f2238"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/KingdomOfDamnation.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/KingdomOfDamnation.mp3"
 hash = "e56890618f17fa8d21c0dc4d8d012ed314181fedb4bfa9e6e1e824d0abb010aa"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/LightWood.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/LightWood.mp3"
 hash = "68ada3a480480721a0cd488dcc153e7b7c9b58d57056488648225ea781b240fd"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/LightWoodNight.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/LightWoodNight.mp3"
 hash = "f279670ba968a6368325b83f9cda1ecf87a481ef06429780047e9569b5f6d7f8"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/Moonlight.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/Moonlight.mp3"
 hash = "f795c5976d0f34dca9090da3debc1dce45d2964177f0b844f5107a8849cc99e1"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/Ongoing.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/Ongoing.mp3"
 hash = "36536a555ad5d5167ba184675a78be08dcf553c0f873aaca67e95626e98274b8"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/Storm.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/Storm.mp3"
 hash = "db759c14074e6bda94711f5f3e4312818dbc8d4dc496476822897a05ed13f42d"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/ToTheLosts.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/ToTheLosts.mp3"
 hash = "ced73a989c8d508ee013d62c6cee798903a4fe02433a1e4522d5128b58c17c35"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/WeAreNotForgotten.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/WeAreNotForgotten.mp3"
 hash = "6b2cf580e86ecee1883fd65ff71c976110f78439de3392f561ca0e6e70da4463"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/music/WorldUnbound.mp3"
+file = "resourcepacks/Reactive Music - LTBD/music/WorldUnbound.mp3"
 hash = "7fdc5c2a1d771a774e9341e382f9ecd284157e958e1601a798354403c09d8a0d"
 
 [[files]]
-file = "resourcepack/Reactive Music - LTBD/pack.mcmeta"
+file = "resourcepacks/Reactive Music - LTBD/pack.mcmeta"
 hash = "c821bd689ca0bf8e0460b6632cbf12e68a716671c5f9a774cde733fe21b22d7c"
 
 [[files]]
-file = "resourcepack/STONEBORN-1.21-V3.2.2.zip"
+file = "resourcepacks/STONEBORN-1.21-V3.2.2.zip"
 hash = "18d159afac4d3b6ac81341f86806499e86c7024d4115fba09e96d00546a35636"
 
 [[files]]
-file = "resourcepack/TwilightJAPPAPack-1.21.1-1.2.0.zip"
+file = "resourcepacks/TwilightJAPPAPack-1.21.1-1.2.0.zip"
 hash = "8bacc800970d14b8a0f24e405c3143441620de20dba701a5d5cdec7673109050"
 
 [[files]]
-file = "resourcepack/bushy-leaves-1-6-5.zip"
+file = "resourcepacks/bushy-leaves-1-6-5.zip"
 hash = "2371bf7992bacb761f0887b841b6313283b2603c3a35ebcf30bda328e9f65e3a"
