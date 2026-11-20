@@ -646,10 +646,6 @@ file = "mods/umbral_skies-1.21.1-1.6.2.jar"
 hash = "f11a34b317bebb2c61607c3a72550c563f0093b70b4f048a54f0bef370f92dfb"
 
 [[files]]
-file = "mods/upgrade_aquatic-1.21.1-7.0.2.jar"
-hash = "436e05528d6f477375d84ef60ab7d91ca9f38682cb8ec0a9a8d1984526c4402f"
-
-[[files]]
 file = "mods/upgraded-iron-chests-1.4.jar"
 hash = "112e47624e467c5e4ae00ac5d8eebe9800d6e7b5cd80914b3a90fac51d69b281"
 
