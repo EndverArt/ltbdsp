@@ -614,8 +614,8 @@ file = "mods/t_and_t-fabric-neoforge-1.13.11.jar"
 hash = "270fc0d1c99e54bc15f43d64bdaac60a90cb896efc357af624988e677136440f"
 
 [[files]]
-file = "mods/tcots_witcher-neoforge-1.1.0-1.21.1-nodrowner.jar"
-hash = "3500b41548fd7889a0f8d356700d9a00bf0e596e94240dbc0cfc39108c3c0412"
+file = "mods/tcots_witcher-neoforge-1.1.0-1.21.1-nodrownerandfixes.jar"
+hash = "d5cfb2219f3e1d7e10094962ef797b267f5fe97d36541115e7a13bd733906e83"
 
 [[files]]
 file = "mods/tectonic-3.0.28-neoforge-21.1.jar"
